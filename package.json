@@ -1,0 +1,15 @@
+{
+  "name": "icedog.date-edge",
+  "version": "1.0.0",
+  "description": "通过 js 的 date对象获取各种起始和结束时间的示例",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
